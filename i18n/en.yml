@@ -166,6 +166,7 @@ snippet:
   created_at: Created at
   updated_at: Updated at
 what_about_lokka: <p>Lokka is a blogging/CMS tool for the personal cloud.</p><p>Users who are accustomed to WordPress or other existing systems like it will find it easy to manage.<br />It's easy on theme designers, and provides a clean plugin API for Ruby developers.</p>
+what_about_nowplayingfrineds: <p>Now Playing Friends" is a one of iPhone(or iPod) application in order to find twitter users who are listening to music same as other twitter users at the same time (or in the past).</p><p>This app can releating to YouTube, create link to iTunes Store and uploading album artwork.</p>
 home: Home
 getting_started: Getting Started
 download: Download
