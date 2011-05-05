@@ -341,8 +341,8 @@ color: #ec189a;
 
 /* header capture */
 #header .capture {
-	width: 435px;
-	height:320px;
+	width: 320px;
+	height:460px;
 	float: left;
 	background-image: url(images/header_capture.png);
 	background-repeat: no-repeat;
