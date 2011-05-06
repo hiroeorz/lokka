@@ -339,6 +339,10 @@ color: #ec189a;
 	width:95px;
 }
 
+#header .eye_catch .description li.twitter a {
+	width:95px;
+}
+
 /* header capture */
 #header .capture {
 	width: 320px;
