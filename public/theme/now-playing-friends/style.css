@@ -283,7 +283,8 @@ color: #ec189a;
 	color: #FFF;
 }
 #header .eye_catch h1 {
-	background-image: url(images/index_header_h1.png);
+	/* background-image: url(images/index_header_h1.png); */
+	background-image: url(images/now-playing-friends-logo.png);
 	height: 85px;
 	text-indent: -9999px;
 	display: block;
