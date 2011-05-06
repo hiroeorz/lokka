@@ -175,6 +175,7 @@ color: #ec189a;
 
 #header h1 a {
 	background-image: url(images/header_h1_a.png);
+	background-repeat: no-repeat;
 	display: block;
 	float: left;
 	height: 80px;
