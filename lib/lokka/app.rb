@@ -45,7 +45,7 @@ module Lokka
       set :supported_templates => %w(erb haml slim erubis)
       set :per_page, 10
       set :admin_per_page, 200
-      set :default_locale, 'en'
+      set :default_locale, 'ja'
       set :haml, :ugly => false, :attr_wrapper => '"'
       helpers Sinatra::ContentFor
       helpers Lokka::Helpers
