@@ -2,6 +2,7 @@ all: All
 option: Option
 demo: Demo
 contributor: Contributor
+bug_report: Request or Bug Report
 english: English
 japanese: 日本語
 option: Option
