@@ -2,7 +2,7 @@ all: 全て
 option: オプション
 demo: デモ
 contributor: 開発参加
-bug_report: 要望・バグ報告
+bugreport: 要望・バグ報告
 english: English
 japanese: 日本語
 option: オプション
