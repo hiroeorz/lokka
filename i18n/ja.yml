@@ -166,9 +166,10 @@ snippet:
   created_at: 作成日時
   updated_at: 更新日時
 what_about_lokka: <p>Lokka(ロッカ)はクラウド環境に対応したCMS/Blogツールです。</p><p>WordPressのような既存のツールに馴染んだユーザーにも簡単に扱えます。<br />テーマを作るデザイナーに優しく、RubyデベロッパーにクリーンなプラグインAPIを提供します。</p>
-what_about_nowplayingfrineds: <p>Now Playing Frindsはあなたが今聴いている曲をツイートし、あなたと同じ曲、同じアーティストを聴いている人を教えてくれるアプリです。</p><p>このアプリを起動してiPhone/iPodに入れてある曲を再生すると、画面上に同じ曲を聴いているツイッターユーザのアイコンが表示されます。</p><p>YouTubeとの連携やiTunesの楽曲サイトへのリンク生成、アルバムジャケットのアップロードなども行えます。</p>
+what_about_nowplayingfrineds: <p>Now Playing Frindsはあなたが今聴いている曲をツイートし、あなたと同じ曲、同じアーティストを聴いている人を教えてくれるiPhone,iPodアプリです。</p><p>このアプリを起動してiPhone/iPodに入れてある曲を再生すると、画面上に同じ曲を聴いているツイッターユーザのアイコンが表示されます。</p><p>YouTubeとの連携やiTunesの楽曲サイトへのリンク生成、アルバムジャケットのアップロードなども行えます。</p>
 home: ホーム
 getting_started: はじめよう
+about_app: このアプリについて
 download: ダウンロード
 source_code: ソースコード
 post_comment: コメントする
