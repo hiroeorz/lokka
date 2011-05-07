@@ -36,19 +36,19 @@
           .capture= link_to 'download', 'http://github.com/komagata/lokka/downloads'
         .nav
           %ul.wide
-            %li= link_to t.getting_started, '/getting-started'
+            %li= link_to t.about_app, '/home'
             %li= link_to t.contributor, '/contributor'
-            %li= link_to t.download, 'http://itunes.apple.com/jp/app/now-playing-friends/id393725496?mt=8#'
-            %li= link_to t.source_code, 'https://github.com/hiroeorz/NowPlayingFriends'
+            %li= link_to t.download, 'http://itunes.apple.com/jp/app/now-playing-friends/id393725496?mt=8#', :target => :_blank
+            %li= link_to t.source_code, 'https://github.com/hiroeorz/NowPlayingFriends', :target => :_blank
       - else
         .section.wide
           %h1= link_to @site.title, '/'
           .nav
             %ul
-              %li= link_to t.getting_started, '/getting-started'
+              %li= link_to t.about_app, '/home'
               %li= link_to t.contributor, '/contributor'
-              %li= link_to t.download, 'http://itunes.apple.com/jp/app/now-playing-friends/id393725496?mt=8#'
-              %li= link_to t.source_code, 'https://github.com/hiroeorz/NowPlayingFriends'
+              %li= link_to t.download, 'http://itunes.apple.com/jp/app/now-playing-friends/id393725496?mt=8#', :target => :_blank
+              %li= link_to t.source_code, 'https://github.com/hiroeorz/NowPlayingFriends', :target => :_blank
       - unless index?
         .bred_crumbs.wide
           = bread_crumb
